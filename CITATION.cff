@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Location-regularized post-trial dose selection: reproducibility code"
+authors:
+  - family-names: Chen
+    given-names: Siyi
+    orcid: "https://orcid.org/0000-0001-8019-8149"
+    affiliation: "School of Public Health, LSU Health Sciences Center"
+license: MIT
+repository-code: "https://github.com/chen-siyi7/location-regularized-BOIN-selection"
+preferred-citation:
+  type: article
+  title: "Stabilizing maximum tolerated dose selection in small Phase I trials with a location prior"
+  authors:
+    - family-names: Chen
+      given-names: Siyi
+      orcid: "https://orcid.org/0000-0001-8019-8149"
+  year: 2026
